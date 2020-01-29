@@ -4,9 +4,9 @@ RefineContourNet (RCN) is an Object Contour and Edge Detector.  This is the test
 
 DOI: [10.1007/978-3-030-29888-3_20](https://arxiv.org/ct?url=https%3A%2F%2Fdx.doi.org%2F10.1007%2F978-3-030-29888-3_20&v=cf61f2c2)
 
-## To reproduce our results - please download this repository
+## To test our detectors - please download this repository
 
--compile and setup the included matconvnet-files (same procedure like for refinenet) 
+-compile and setup the included matconvnet-files (same procedure like for refinenet [https://github.com/guosheng/refinenet]) 
 
 -choose the correct trained model for either object detection or edge detection
 
