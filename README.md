@@ -9,7 +9,8 @@ RCNVOC_results_on_BSDS500_val
 RCN_NMS_results_on_PASCAL_val 
 RCN_results_on_PASCAL_val
 
-To reproduce our results - please install matconvnet (same procedure like for refinenet) and run the file:
+To reproduce our results - please download this repository and compile and setup the included matconvnet-files (same procedure like for refinenet) and run the file:
 demo_test_simple_voc_contour_tiff.m
 
 Choose the correct trained model for either object detection or edge detection.  
+RCN_results_on_PASCAL_val
