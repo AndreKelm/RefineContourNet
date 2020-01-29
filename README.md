@@ -6,7 +6,7 @@ DOI: [10.1007/978-3-030-29888-3_20](https://arxiv.org/ct?url=https%3A%2F%2Fdx.do
 
 ## To test the RCN - please download this repository
 
--compile and setup the included matconvnet-files (same procedure like for RefineNet [https://github.com/guosheng/refinenet]) 
+-compile and setup the included MatConvNet-files (same procedure like for RefineNet [https://github.com/guosheng/refinenet]) 
 
 -run the file: demo_test_simple_voc_contour_tiff.m
 
