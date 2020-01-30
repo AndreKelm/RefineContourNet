@@ -1,6 +1,6 @@
 # RefineContourNet
 
-RefineContourNet (RCN) is an Object Contour and Edge Detector. This is the test code and the best results for the paper Object Contour and Edge Detection with RefineContourNet; CAIP 2018
+RefineContourNet (RCN) is an Object Contour and Edge Detector. This is the test code and the best results of the paper Object Contour and Edge Detection with RefineContourNet; CAIP 2018
 
 DOI: [10.1007/978-3-030-29888-3_20](https://arxiv.org/ct?url=https%3A%2F%2Fdx.doi.org%2F10.1007%2F978-3-030-29888-3_20&v=cf61f2c2)
 
